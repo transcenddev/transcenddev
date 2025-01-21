@@ -1,4 +1,4 @@
-<h2 align="left">Hello World👋! I'm transcenddev, A Filipino Web Developer ![](https://komarev.com/ghpvc/?username=transcenddev)</h2>
+<h2 align="left">Hello World👋! I'm transcenddev, A Filipino Web Developer</h2>
 
 ###
 
