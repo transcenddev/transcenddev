@@ -1,4 +1,4 @@
-<h2 align="left">Hello World👋! I'm transcenddev, A Filipino Web Developer</h2>
+<h1 align="left">Hello World👋! I'm transcenddev, A Filipino Web Developer</h1>
 
 ###
 
