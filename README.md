@@ -7,7 +7,7 @@
 
 - Learning **Data Structures**, **Algorithms**, and **Node.js** on **Xubuntu OS** through **The Odin Project**
 - Pursuing **Computer Science** at **Cavite State University**
-- Ask me about **Web development**, **Personal development**, & **Fitness**
+- Ask me about **Web Design & Development**, **Personal development**, & **Fitness**
 - Coding since **2021**
 
 # 💻 Tech Stack:
