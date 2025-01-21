@@ -8,6 +8,7 @@
 - I’m currently learning **Data Structures**, **Algorithms**, and **Node.js** on **Xubuntu OS** through **The Odin Project**
 - Studying **Computer Science** at **Cavite State University**
 - Ask me about **Web development**, **Personal development**, & **Fitness**
+- Just started out with my **Personal Brand** [@2049rae](https://www.instagram.com/2049rae)  
 - Coding since **2021**
 
 # 💻 Tech Stack:
