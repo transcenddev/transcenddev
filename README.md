@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm transcenddev</h1>
-<p>Passionate developer | Currently learning DSA on freeCodeCamp & Node.js via The Odin Project</p>
+<p>Passionate developer</p>
+<p>| Currently learning DSA on freeCodeCamp & Node.js via The Odin Project</p>
 <p>Ask me about web development, personal growth, and fitness!</p>
 <p>Coding since 2021</p>
 <h2>🚀 Languages and Tools I Use</h2>
