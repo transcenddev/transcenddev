@@ -9,10 +9,10 @@
 
 ###
 
-- I’m currently learning data structures, algorithms, node.js on xubuntu os etc.
-- 👨🏼‍🎓 studying computer science at Cavite State University</p>
-- Ask me about web development, hyersonal development & fitness<.
-- Coding since 2016 !
+- I’m currently learning Data Structures, Algorithms, Node.js on Xubuntu OS through The Odin Project.
+- Studying Computer Science at Cavite State University</p>
+- Ask me about web development, personal development & fitness.
+- Coding since 2021!
 
 # 💻 Tech Stack:
 
