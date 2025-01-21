@@ -5,10 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=transcenddev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-- I’m currently learning **Data Structures**, **Algorithms**, and **Node.js** on **Xubuntu OS** through **The Odin Project**
-- Studying **Computer Science** at **Cavite State University**
+- Learning **Data Structures**, **Algorithms**, and **Node.js** on **Xubuntu OS** through **The Odin Project**
+- Pursuing **Computer Science** at **Cavite State University**
 - Ask me about **Web development**, **Personal development**, & **Fitness**
-- Just started out with my **Personal Brand** [@2049rae](https://www.instagram.com/2049rae)  
 - Coding since **2021**
 
 # 💻 Tech Stack:
