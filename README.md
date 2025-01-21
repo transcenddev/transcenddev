@@ -1,5 +1,4 @@
-<h1 align="left">Hello World👋! I'm transcenddev, A Filipino Web Developer</h1>
-
+<h1 align="left">Hello World👋! I'm transcenddev, Web Developer from the Philippines</h1>
 ###
 
 <!-- <div align="center">
