@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is transcenddev, A Filipino Web Developer</h2>
+<h2 align="left">Hello World👋! I'm transcenddev, A Filipino Web Developer ![](https://komarev.com/ghpvc/?username=transcenddev)</h2>
 
 ###
 
@@ -9,9 +9,10 @@
 
 ###
 
-<p>👨🏼‍🎓 studying media based computer science at Cavite State University</p>
-<p>🎬 you can ask me about coding, personal development & fitness</p>
-<p>👨🏼‍💻 coding since 2021</p>
+- I’m currently learning data structures, algorithms, node.js on xubuntu os etc.
+- 👨🏼‍🎓 studying computer science at Cavite State University</p>
+- Ask me about web development, hyersonal development & fitness<.
+- Coding since 2016 !
 
 # 💻 Tech Stack:
 
