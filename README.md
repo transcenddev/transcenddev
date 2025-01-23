@@ -5,10 +5,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=transcenddev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-- Learning **Data Structures**, **Algorithms**, and **Node.js** on **Xubuntu OS** through **The Odin Project**
-- Pursuing **Computer Science** at **Cavite State University**
-- Ask me about **Web Design & Development**, **Personal development**, & **Fitness**
-- Coding since **2021**
+Currently pursuing a degree in Computer Science at Cavite State University with a focus on software development.
+Proficient in front-end web technologies, including HTML, CSS, JavaScript, and PHP. Familiar with back-end development using MySQL for database management and version control using Git.
+
+- Learning Data Structures, Algorithms, and Node.js on Xubuntu OS through The Odin Project
+- Ask me about Web Design & Development, Personal Development, & Fitness
+- Coding since 2021
+  
+Committed to improving problem-solving skills, collaborating effectively in team environments, and continuously learning to build a strong foundation for a career in technology.
 
 # 💻 Tech Stack:
 
