@@ -7,8 +7,6 @@
 
 I’m a **Computer Science student at Cavite State University** specializing in **software development**. I love exploring **web design, web development, AI & automation**, and continuously building a strong foundation in **Data Structures, Algorithms, and Node.js**. I am always open to **learning new technologies** and collaborating on exciting projects.
 
----
-
 ## 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,8 +22,6 @@ I’m a **Computer Science student at Cavite State University** specializing in 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bubble](https://img.shields.io/badge/Bubble-%230065FF.svg?style=for-the-badge&logo=bubble&logoColor=white)
 
----
-
 ## 💼 Experience & Projects
 
 **Artificial Intelligence Specialist – SP Madrid & Associates Law Firm**  
@@ -34,13 +30,9 @@ Collaborated on AI-driven multimedia projects, animating and enhancing images to
 **UI/UX Designer & Low-Code Developer Intern – Read AI**  
 Designed and developed the Read AI website, conducting user research, building key features, and ensuring an intuitive interface with AI-driven feedback.
 
----
-
 ## 🔗 Portfolio
 
 🌐 Check out my work here: [reymar.dev](https://reymar-portfolio-tawny.vercel.app/)
-
----
 
 ## 👤 About Me
 
@@ -48,12 +40,10 @@ Designed and developed the Read AI website, conducting user research, building k
 - Coding since 2021, always experimenting and learning new technologies
 - Open to **collaboration, freelance work, and new opportunities**
 
----
-
 ## 📫 Let’s Collaborate!
 
 💬 I’m open to **freelance projects, AI/web development collaborations, and learning opportunities.**  
-Feel free to reach out via [Email](mailto:2049rare@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile)
+Feel free to reach out via [Email](mailto:2049rare@gmail.com) or [LinkedIn](https://www.linkedin.com/in/reymar-mirante-53329a323/)
 
 <!-- # 💻 Tech Stack:
 
