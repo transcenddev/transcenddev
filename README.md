@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=transcenddev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-I’m a **Computer Science student at Cavite State University** specializing in **software development**. I love exploring **web design, web development, AI & automation**, and continuously building a strong foundation in **Data Structures, Algorithms, and Node.js**. I am always open to **learning new technologies** and collaborating on exciting projects.
+I’m a **Computer Science student at Cavite State University**, where I’ve developed strong problem-solving skills and acquired a solid foundation in software development principles. I love exploring **web design, web development, AI & automation**, and continuously building a strong foundation in **Data Structures, Algorithms, and Node.js**. I am always open to **learning new technologies** and collaborating on exciting projects.
 
 ## 🚀 Tech Stack
 
