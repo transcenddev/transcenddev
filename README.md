@@ -1,35 +1,28 @@
-# Hello World👋! I'm transcenddev ![](https://komarev.com/ghpvc/?username=transcenddev)
+# Hello World👋! I'm Reymar ![](https://komarev.com/ghpvc/?username=transcenddev)
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=transcenddev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=transcenddev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-# Hi, I’m Reymar 👋
-
 I’m a **Computer Science student at Cavite State University** specializing in **software development**. I love exploring **web design, web development, AI & automation**, and continuously building a strong foundation in **Data Structures, Algorithms, and Node.js**. I am always open to **learning new technologies** and collaborating on exciting projects.
 
 ---
 
-## 💻 Frontend
+## 🚀 Tech Stack
 
-HTML, CSS, JavaScript, PHP, Next.js, TypeScript, Tailwind CSS, Framer Motion
-
-## 🛠️ Backend & DB
-
-MySQL, Node.js
-
-## 🤖 AI & Automation
-
-AI-driven projects, SaaS workflows, low-code tools
-
-## 🎨 Design & UX
-
-Figma, Framer, Bubble.io, UI/UX design principles
-
-## 🌱 Learning
-
-Continuous improvement, personal growth, fitness
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble-%230065FF.svg?style=for-the-badge&logo=bubble&logoColor=white)
 
 ---
 
@@ -43,13 +36,24 @@ Designed and developed the Read AI website, conducting user research, building k
 
 ---
 
-## 🔗 About Me
+## 🔗 Portfolio
+
+🌐 Check out my work here: [reymar.dev](https://reymar-portfolio-tawny.vercel.app/)
+
+---
+
+## 👤 About Me
 
 - Passionate about **web design, web development, AI & automation, and fitness**
 - Coding since 2021, always experimenting and learning new technologies
 - Open to **collaboration, freelance work, and new opportunities**
 
-📫 **Connect with me:** [Email](mailto:2049rare@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+---
+
+## 📫 Let’s Collaborate!
+
+💬 I’m open to **freelance projects, AI/web development collaborations, and learning opportunities.**  
+Feel free to reach out via [Email](mailto:2049rare@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 <!-- # 💻 Tech Stack:
 
