@@ -1,4 +1,4 @@
-I'm a software developer interested in full-stack development, UI/UX design, and AI automation, building practical solutions that solve real-world problems.
+I'm a Software Developer interested in full-stack development, UI/UX design, and AI automation, building practical solutions that solve real-world problems.
 
 **You can find me here**
 
